@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>    </title>
+    <title>Starting Up with HTML Again</title>
   </head>
         <body>
           <h1>My Practice File</h1>
+           <p>Rebekah Richardson April 27</p>
            <p>This is to see if I actually know how to work with Github.</p>
            <p>I have forgotten a lot of creating new documents and such in Github and having
            it connect correctly to my terminal. That was always confusing for me, so I will
