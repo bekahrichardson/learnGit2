@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <title>My HTML Practic</title>
+  </head>
   <body>
     <h1>My Practice File</h1>
      <p>This is to see if I actually know how to work with Github.</p>
