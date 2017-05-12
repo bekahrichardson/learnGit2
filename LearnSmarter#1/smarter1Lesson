@@ -12,8 +12,8 @@
      it connect correctly to my terminal. That was always confusing for me, so I will
      be doing little test/practice projects such as this to make sure my projects actually
      save where they are supposed to on my account.</p>
-    <h2>My Life</h2>
-     <p>I am currently around 36 weeks pregnant. My doctor said that I am measuring a week
+    <h2 class="typewriter">My Life</h2>
+     <p class="typewriter">I am currently around 36 weeks pregnant. My doctor said that I am measuring a week
      ahead though, so I could actually be having this baby sooner that we thought. I am married
      to a wonderful man Aaron and we have a cute baby about to come to our family. Just a few
      more weeks of waiting! (or days!)<br>I also am currently a student in coding school, specifically
